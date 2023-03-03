@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Tilt+Neon&display=swap');
+
+@tailwind base;
+@tailwind utilities;
+@tailwind components;
+
+
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	scroll-behavior: smooth;
+}
+
+body {
+	font-family: 'Tilt Neon', cursive;
+	background-color: #1f1f23;
+}
+
+#main::-webkit-scrollbar {
+	width: 8px;
+}
+
+#main::-webkit-scrollbar-thumb {
+	background-color: #aaa;
+	border-radius: 4px;
+}
+
+#main::-webkit-scrollbar-thumb:hover {
+	background-color: #999;
+}
+
+#main::-webkit-scrollbar-track {
+	background-color: #eee;
+	border-radius: 4px;
+}

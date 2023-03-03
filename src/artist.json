@@ -1,0 +1,97 @@
+{
+  "name": "BảoLong",
+  "albumCover": "/imgs/albumCovers/coverHero.png",
+  "releaseYear": "2022",
+  "tracks": [
+    {
+      "id": 1,
+      "name": "Shape of You",
+      "path": "/songs/Shape of You.mp3",
+      "lyrics": false
+    },
+    {
+      "id": 2,
+      "name": "Blank Space",
+      "path": "/songs/Blank Space.mp3",
+      "lyrics": true
+    },
+    {
+      "id": 3,
+      "name": "Cheri Cheri Lady",
+      "path": "/songs/Cheri Cheri Lady.mp3",
+      "lyrics": false
+    },
+    {
+      "id": 4,
+      "name": "Diamonds",
+      "path": "/songs/Diamonds.mp3",
+      "lyrics": false
+    },
+    {
+      "id": 5,
+      "name": "Im In Love",
+      "path": "/songs/Im In Love.mp3",
+      "lyrics": false
+    },
+    {
+      "id": 6,
+      "name": "Diamonds",
+      "path": "/songs/Diamonds.mp3",
+      "lyrics": false
+    },
+    {
+      "id": 7,
+      "name": "Mong Một Ngày Anh Nhớ Đến Em",
+      "path": "/songs/Mong Một Ngày Anh Nhớ Đến Em.mp3",
+      "lyrics": false
+    },
+    {
+      "id": 8,
+      "name": "Timber",
+      "path": "/songs/Timber.mp3",
+      "lyrics": false
+    },
+    {
+      "id": 9,
+      "name": "Shape of You",
+      "path": "/songs/Shape of You.mp3",
+      "lyrics": false
+    },
+    {
+      "id": 10,
+      "name": "Blank Space",
+      "path": "/songs/Blank Space.mp3",
+      "lyrics": true
+    },
+    {
+      "id": 11,
+      "name": "Cheri Cheri Lady",
+      "path": "/songs/Cheri Cheri Lady.mp3",
+      "lyrics": false
+    },
+    {
+      "id": 12,
+      "name": "Diamonds",
+      "path": "/songs/Diamonds.mp3",
+      "lyrics": false
+    },
+    {
+      "id": 13,
+      "name": "Im In Love",
+      "path": "/songs/Im In Love.mp3",
+      "lyrics": false
+    },
+    {
+      "id": 14,
+      "name": "Mong Một Ngày Anh Nhớ Đến Em",
+      "path": "/songs/Mong Một Ngày Anh Nhớ Đến Em.mp3",
+      "lyrics": false
+    },
+    {
+      "id": 15,
+      "name": "Timber",
+      "path": "/songs/Timber.mp3",
+      "lyrics": false
+    }
+  ]
+}
