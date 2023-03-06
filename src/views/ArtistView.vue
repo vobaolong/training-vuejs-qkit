@@ -24,7 +24,7 @@ const playFunc = () => {
 </script>
 
 <template>
-  <div id="HeaderSection" class="max-w-[1500px] mx-auto">
+  <div id="headerSection" class="max-w-[1500px] mx-auto">
     <div
       class="flex items-center w-full relative h-full px-8 mt-6 min-w-[650px]"
     >
@@ -94,7 +94,7 @@ const playFunc = () => {
   <div class="border-b border-b-[#302d2d]"></div>
   <div class="mb-10"></div>
 
-  <div id="SongsSection" class="max-w-[1500px] mx-auto">
+  <div id="songsSection" class="max-w-[1500px] mx-auto">
     <div class="pl-8">
       <div class="text-white text-3xl font-semibold mb-7">Top tracks</div>
 

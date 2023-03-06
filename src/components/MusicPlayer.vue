@@ -1,6 +1,6 @@
 <template>
   <div
-    id="MusicPlayer"
+    id="musicPlayer"
     v-if="audio"
     class="fixed flex min-w-[1000px] items-center justify-between bottom-0 w-full z-50 h-[80px] bg-[#23232D] border-t border-t-[#383838]"
   >
